@@ -1,1 +1,1 @@
-trees = ["dogwood", "peony", "catalpa"]
+trees = ["dogwood", "apple", "cedar", "cyprus", "oak"]
